@@ -121,3 +121,5 @@ app.get("/alunos/:id", async (req, res) => {
     }
 })
 app.listen(porta, () => console.log(`Servidor rodando http://localhost:${porta}/`));
+
+//.
